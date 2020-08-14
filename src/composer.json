@@ -1,0 +1,19 @@
+{
+    "name": "TFS/mpesa",
+    "description": "Laravel package for Safaricom Mpesa Daraja API",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelvin Maina",
+            "email": "thiongokelvin5@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "TFS\\Mpesa\\": "src/"
+        }
+    },
+    "require": {}
+}
