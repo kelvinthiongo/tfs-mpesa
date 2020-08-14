@@ -1,5 +1,5 @@
 {
-    "name": "TFS/mpesa",
+    "name": "tfs/mpesa",
     "description": "Laravel package for Safaricom Mpesa Daraja API",
     "type": "project",
     "license": "MIT",
